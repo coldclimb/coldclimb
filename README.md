@@ -1,0 +1,3 @@
+- 👋 Hi, I’m John Borland. I retired from a career in firefighting in late 2020 and started studying Javascript and Angular. 
+- I'm looking to get into the development industry with an entry level position that I can pour myself into and build my skills while applying them practically.
+- You can reach me at coldclimb@gmail.com
