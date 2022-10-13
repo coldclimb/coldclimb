@@ -1,3 +1,3 @@
-- 👋 Hi, I’m John Borland. I'm currently learning and growing as a programmer after completing a career in the Fire Service.
+- 👋 Hi, I’m John Borland. I'm currently learning and growing as a programmer after completing a career in the Fire Service. To date my studies have included Javascript, Angular, React, and GraphQL.
 - I'm looking to get into the development industry with an entry level position that I can pour myself into and build my skills while applying them practically.
 - You can reach me at coldclimb@gmail.com
